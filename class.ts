@@ -145,6 +145,8 @@
 // console.log(ractangle.toString());
 // console.log(circle.toString());
 
+fe;
+
 // abstract class Polygon {
 //   public abstract getArea(): number;
 //   public toString(): string {
