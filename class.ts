@@ -145,8 +145,7 @@
 // console.log(ractangle.toString());
 // console.log(circle.toString());
 
-
-//Abstract Method
+abstract method
 // abstract class Polygon {
 //   public abstract getArea(): number;
 //   public toString(): string {
@@ -167,3 +166,7 @@
 // }
 // const myRect = new Rectangle(10,20);
 // console.log(myRect.getArea());
+
+
+
+console.log("Manthan")
