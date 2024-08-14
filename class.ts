@@ -144,6 +144,7 @@
 // // console.log(circle.getarea());
 // console.log(ractangle.toString());
 // console.log(circle.toString());
+
 // abstract method
 // abstract class Polygon {
 //   public abstract getArea(): number;
